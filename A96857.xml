@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new conference between the ghosts of King Charles and Oliver Cromvvell. Faithfully communicated by Adam Wood.</title>
+            <author>Wood, Adam.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96857</idno>
+            <idno type="STC">Wing W3381</idno>
+            <idno type="STC">Thomason E988_28</idno>
+            <idno type="STC">ESTC R204112</idno>
+            <idno type="EEBO-CITATION">99863807</idno>
+            <idno type="PROQUEST">99863807</idno>
+            <idno type="VID">168642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168642)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new conference between the ghosts of King Charles and Oliver Cromvvell. Faithfully communicated by Adam Wood.</title>
+                  <author>Wood, Adam.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Page, living in Barbican,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 30.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168642:1" rendition="simple:additions"/>
+            <p>A New CONFERENCE Between the GHOSTS OF King CHARLES AND Oliver Cromvvell.</p>
+            <p>FAITHFULLY Communicated by <hi>Adam Wood.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Prin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for <hi>Robert Page,</hi> living in <hi>Barbican.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:168642:2"/>
+            <head>A <hi>Conference</hi> between the <hi>Ghoſts</hi> of King <hi>Charls,</hi> and <hi>Oliver Cromwell.</hi>
+            </head>
+            <sp>
+               <speaker>King.</speaker>
+               <p>HOw now! Who's this that diſturbeth my duſt, at Reſt now ſome years?</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>I am one that gave thee no Reſt when we lived together upon the Earth.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>What? Is it <hi>Oliver Cromwel,</hi> that grand Enemy of mine?</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>The ſame.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What? haſt thou left thy ſtation on Earth, and durſt thou here alſo to own thy ſelf my Enemy?</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>What is it that I ever wanted Impudence to do?</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>'Tis true; neither didſt thou ever want a baſe Hypocriti<g ref="char:EOLhyphen"/>cal Temper to colour thy moſt abſurd Actions.</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Oh Sir! I did no other then Imitate moſt of our Rank, which, according to our Creed, <hi>viz. Nicholas Machiavell</hi>'s Prince, who ſaith, <hi>A Prince or Tyrant ought never to want good Pretences, to colour the worſt of Actions with.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>What doſt thou Rank thy ſelf amongſt Princes? Didſt thou uſurp the Kingly Office, after thou didſt me that Ill Office?</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>I made a ſhift to gain the Supremacy; and becauſe the Nation was under age, I made my ſelf their <hi>Protector;</hi> and would have made my ſelf <hi>King,</hi> but that I durſt not ac<g ref="char:EOLhyphen"/>cept of the Title, becauſe I had a Hand in your death; the which the People all knew: therefore I could not find a co<g ref="char:EOLhyphen"/>lourable pretence: for beſides that, I often Imprecated and proteſted againſt the Government of a Single Perſon, in the hearing of the Officers of my Army, who had ſomewhat tender Conſciences, in regard I had not a Crown for every one of them to harden their Conſciences with, they ob<g ref="char:EOLhyphen"/>ſtructed it once whileſt it was under Conſulation in Par<g ref="char:EOLhyphen"/>liament, to beſtow upon me that Bauble which only ſerveth to cheat People.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:168642:2"/>
+               <speaker>King.</speaker>
+               <p>What? Would that Parliament that took the Crown from my head, put it upon thine, and not upon one of my Childrens heads?</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Alas, Sir, that Parliament, I turned them all out of Doores, after they had declared <hi>England</hi> a <hi>Commonwealth;</hi> and then I became a Seeker, took the <hi>Fifth-Monarchy</hi> people in to ayd me in the turning them out of their Reputation; in which work ſeveral of that opinion did me good ſervice, by defaming, railing, and abuſing the Parliament, in the ears of the people, which made the work more eaſie and ſecure: So ſoon as that was done, I turned them to graſs together, with the Eel-skin, <hi>Aqua-vitae,</hi> or Lamb-skin Par<g ref="char:EOLhyphen"/>liament, what ſhall I call it? and then I was made <hi>Lord Protector,</hi> forſooth.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Then you were made Protector! who made you Protector, I pray?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>Who? It was my Scullion, and Grooms, and Butler, and ſome other Nobles and great men, beſides Sir <hi>Thomas Viner</hi> then Lord Mayor of <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Sir <hi>Thomas Viner!</hi> Why, who made him a Knight?</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>Who? I did, with many more doughty ones.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Thou haſt played a mad Game; it is ſtrange that a Halter never catcht thee: Didſt thou not come out of the World by the Rope, or the Ax, or by the hand of ſome <hi>Felton</hi> or other?</p>
+            </sp>
+            <sp>
+               <speaker>O.</speaker>
+               <p>No; but I came by the Immediate hand of God, who never ſuffered that worm of Conſcience to die within me, but it ſtill lay Gnawing and Tormenting of me, brought an unuſual Feaver upon me, that dryed up all my blood, that at my departure not one drop almoſt was left within me.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What didſt thou do with the Sectaries, when thou cameſt to that Power?</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>I ſerved them all alike; I made uſe of ſuch of them as were as ſound Trowts as my ſelf; and turn'd off all that I thought had any principles; and made choyce of ſuch onely as would ſerve me in any undertaking?</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <hi>How couldſt thou ſecure thy ſelf againſt ſo many ſturdy</hi>
+                  <pb n="4" facs="tcp:168642:3"/> and lofty ſpirits, as was raiſed in the Warr between Me and the Par<g ref="char:EOLhyphen"/>liament? or, how couldſt thou charm them to quietneſs?</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Thus: If any ſtirred againſt me, I at once ſtruck off their heads; I did not Nibble about their Ears, as you did about <hi>Burton's, Prynne's,</hi> and <hi>Baſtwick's.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Alas! At that time I could do no more, and it had been better I had never done that; for it diſcontented the Puritans ſo much, that they ſought all means to work me Ill and Miſchief, for my ſuffering that, and the Innovations in the Church in point of Worſhip, together with the Patentees and Monopolies; all which diſcontented my People ſo much, that it made way for that Curſed Warr, in which I loſt my ſelf and Friends; by which you did arrive to what greatneſs you were at: Theſe and ſuch like follies I was guilty of, by being adviſed by none but a vitious Nobility, that ſpent their Eſtates in a Riotous and voluptuous manner, never minding Juſtice or Policy, Exhauſting my Exchequer to ſupport them, which brought me into want, which neceſsitated me to lay Burdens upon my People; the which diſcontented them. They would not ſubmit to be ruled, but I muſt have a Parliament to prevent popular Inſurrections: the which I was forced to do, in regard the <hi>Scots</hi> had their Arms in their hands; and the Forces that I rai<g ref="char:EOLhyphen"/>ſed, would not ſight: and when the Parliament aſsembled, I lost my ſelf, by not condeſcending to what ever they deſired, according to the advice of my Graveſt Councel; and by my hearkening to ſuch Counſell that adviſed me to Inſiſt upon my Prerogative; which at length occaſioned that Warr. And after the War was ended, that I ſhould at all Refuſe to ſubmit to any Tearms, when they offered me my Crown again; I having loſt it in the Field, being a priſo<g ref="char:EOLhyphen"/>ner, and having no Forces to ſtand by me; that I ſhould ſtand up<g ref="char:EOLhyphen"/>on Tearms. Alas, alas, I acknowledge I played a fooliſh Game; if I had not Refuſed to condeſcend to thoſe Propoſitions at the Trea<g ref="char:EOLhyphen"/>ty in the <hi>Iſle of Wight,</hi> I had kept my head on my ſhoulders, in deſpight of thee and all the reſt of my Enemies. But, I prethee <hi>Oliver,</hi> now I have told thee how I play'd the Fool, tell me how thou didſt play the Knave after my deceaſe; part of which thou haſt already diſcourſed to me.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:168642:3"/>
+               <speaker>Oliver.</speaker>
+               <p>Let me tell you, now I do intend to be reall to you, and caſt off thoſe pretences I have hitherto cleathed my Actions with. The order of my under-hand dealing is in manner thus; Firſt, when the Presbyterians were ſo hot for you, and intended fooliſhly to re-eſtabliſh you, I began to be a zealous <hi>Independent,</hi> and promoted that Faction or Opinion above all other in the Army, and ſent Cornet <hi>Joyce</hi> privately, ordering him to ſecure your Perſon, (though af<g ref="char:EOLhyphen"/>terwards I denyed it with all the Imprecations I could de<g ref="char:EOLhyphen"/>viſe) to bring you into the Cuſtody of the Army. That I might make the better tearms for my ſelf, I ſet afoot a Treaty with you at <hi>Oatlands;</hi> afterwards I propounded to my ſelf, That I could not poſſibly thereby attain to the End that I aymed at by that Action; then I contrived to foment a Jealouſie in you of a ſurprize intended by the <hi>Levellers,</hi> to ſeize you, and bring you to Tryal. Upon this, you went in<g ref="char:EOLhyphen"/>to my Trap in the <hi>Iſle of Wight.</hi> After I had taken off your Head, before I went to <hi>Ireland,</hi> I had to do with deſigning the deſtruction of the <hi>Levellers;</hi> the which I effected in this manner. They being in a Body, &amp; likely to have ſent me after you (before I had taſted of the fruits of Soveraignty); I employed ſome amongſt them to be Confederates, who be<g ref="char:EOLhyphen"/>trayed all their Reſolutions to me, and promiſed to obſtruct their deſigns; for which I gave them Additional Honours: and I employed others to treat with them, and engage, that the Army ſhould not advance upon them untill the Treaty was over; which caſt them into a ſecurity at <hi>Burford:</hi> There<g ref="char:EOLhyphen"/>upon I advanced the Army, and fell in to their Quarters, ſlew many, and hanged others. After which, I went into <hi>Ireland,</hi> with an Army. I furniſhed it with all the Anabap<g ref="char:EOLhyphen"/>tiſts I could find fit to ſay Bo to a Gooſe, both in <hi>Ireland, Scotland,</hi> and <hi>England.</hi> Then my Lord <hi>Fairfax</hi> tamely, up<g ref="char:EOLhyphen"/>on a ſcruple of Conſcience, layd down his Commiſſion; which act of his made my work eaſie to attain the Supre<g ref="char:EOLhyphen"/>macy; elſe I muſt have pickt ſome holes in his Coat to
+<pb n="6" facs="tcp:168642:4"/> have taken him out of the way by death or otherwiſe; the which was not eaſie to be done, he walking ſo circumſpect<g ref="char:EOLhyphen"/>ly: If he had not done it, I ſhould have ſuborned ſome that would have done my work effectually; the which Art I alwayes found to ſerve my deſigns to good purpoſe, in ta<g ref="char:EOLhyphen"/>king away whomſoever I deſigned to deſtroy, unleſs it were one Dozen or thereabouts of ſubtile fellows, whom I fear will be revenged on my ſimple Son <hi>Dick,</hi> who hath not the ſpirit of Government upon him.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What haſt thou gulled my People, ſo as to leave any of thy Brood behind thee in the Government?</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>Yes, I left him <hi>Protector,</hi> and left my Secretary to protect him; but I doubt he will not be able to hold it long. Well, but to the buſineſs in hand, I am upon Con<g ref="char:EOLhyphen"/>feſſing my villany; I ſay, when I had furniſhed the Armies with Anabaptiſts, I was able to deal with the Parliament, who for the moſt part were <hi>Independents:</hi> I by my ſelf and Emiſſaries in the Houſe, together with ſome of your Friends, did impede ſettlement by way of a <hi>Commonwealth,</hi> obſtruct<g ref="char:EOLhyphen"/>ed Juſtice in the Houſe, promoted and countenanced all Villanies in Committees, thereby to render them odious to the people. Now ſome of the Anabaptiſts ſerved me to good purpoſe, who were all for a <hi>Fifth-Monarchy;</hi> the which Opinion I fomented all that I could: The Parliament ſtood in their way when they became conſiderable, by whom they were defamed, abuſed, and ſlighted, their credit much weakned by ſuch like means in the opinion of the People, I thereupon diſſolved them.</p>
+            </sp>
+            <sp>
+               <p>—Oliver,—Oliver,—Oliver.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>What! who's that that diſturbeth us?</p>
+            </sp>
+            <sp>
+               <speaker>Genius.</speaker>
+               <p>I am thy Son <hi>Richard</hi>'s <hi>Genius,</hi> that come to tell thee, That he is Reduced to a private Capacity, and the <hi>Long-Parliament</hi> hath again Re-aſſumed their Authority, and he is little better then a priſoner; He cannot ſtirre our of doors either to Hawk or Hunt, for fear of Common Var<g ref="char:EOLhyphen"/>lets
+<pb n="7" facs="tcp:168642:4"/> and Serjeants; There's one that intendeth to have him by the back for money for thy Wax Noſe that belongeth to thy Effigies; another for this; and others for that.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>What ſtrange fate turneth the Wheel of the Engliſh affairs!</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Ha, ha, ha! Is it come to your own door, Sir? Well, certainly they will, like <hi>David,</hi> give thy ſons to the <hi>Gibeonites,</hi> to be hung a Sun-drying, for all the Indignities thou haſt done them?</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>It's ſtrange! I ventured Body and Soul to get three Dominions, to leave him Lord of, and he would not ſell his to keep them; he is not to be pitied.—To our former diſ<g ref="char:EOLhyphen"/>courſe; I then called together a parcel of Gentlemen from <hi>Goatam,</hi> and other parts of the Nation, which were the Tinder-box, Lambskin, or Small-coal Parliament I men<g ref="char:EOLhyphen"/>tioned before. I made a ſhew of Devolving the power upon them; made uſe of them to raiſe money, and do ſome other Jobbs of Journeywork. Then I procured one half to diſ<g ref="char:EOLhyphen"/>ſolve the other: Afterwards, I deſigned Warr with <hi>Spain,</hi> for ſeveral Reaſons; one was, to keep the Active ſpirits in the Army imployed; and to waſte them there, whom I de<g ref="char:EOLhyphen"/>ſired to be rid of here. Another was, That a Warr with <hi>Spain</hi> would be leaſt Hurtful to me, though it was the moſt hurtfull to the People of <hi>England;</hi> It would Impoveriſh them, and reduce the more of the needy ſort of People to a Neceſſity of taking up of Arms to ſerve me, and render the other to be leſs Hurtful: But it ſo fell out, that the Deſign came off with ill ſucceſses; My great preparations were Expenſive, and drove me to Neceſſities: I was forced to Invent ſome Plots, and I imployed ſome of my cunning Gameſters, which drew in many of your party ſeverall times; them I ſequ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtred, which ſerved me to ſtop many Gaps. I repaired ſo often to that kind of practice, that every one ſuſpected the ſecrecy; the laſt of which I intended to be put in Execution a little in Doctor <hi>Hewytt</hi>'s Plott, to
+<pb n="8" facs="tcp:168642:5"/> the lighting of ſome Fires in the City, by the Heat of which I thought to have Illuminated the City and Nation with a belief of the Truth and Reality thereof, it being much like unto what our Brother <hi>Nero</hi> did at <hi>Rome;</hi> but I feared it might have gone too far out of my Reach, and the Effect might have been dangerous to my Perſon and Eſtate: there<g ref="char:EOLhyphen"/>fore, forasmuch as they would not believe it, without ſome dyed, I gently ſprinckled the City with the Blood of that Malignant Doctor, and ſome other ſilly Souls; by which means I came off believed by moſt, though ſuſpected by the Ingenious.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Oh horrid Villany? But why ſhould I much wonder? ſince if it be well conſidered, other than this, and much worſe, could never be expected from thee. We<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, go on.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Stay there, Sir! I have diſcovered enough at once; yet if you had not Interrupted me, I ſhould at this time have Imparted more; but we will forbear untill another time; But it doth trouble me much to think, how that That Par<g ref="char:EOLhyphen"/>liament ſhould be again upon the Stage: I fear me now, neither your poſterity nor mine ſhall ever attain the Su<g ref="char:EOLhyphen"/>premacy: they will ſecure the Arms of the Nation from falling into the hands of one perſon. I have done them ſome good, in teaching them that Leſſon. Next time we meet, we ſhall diſcourſe of theſe things farther.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Let it be ſo.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
